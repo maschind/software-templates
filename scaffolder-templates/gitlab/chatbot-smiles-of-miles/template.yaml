@@ -11,7 +11,7 @@ metadata:
     - rhoai
     - rhtap
 spec:
-  owner: rhdh
+  owner: tssc
   type: service
   parameters:
     - title: Provide Information for Application
